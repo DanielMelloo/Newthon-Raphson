@@ -41,12 +41,13 @@ As funções a serem usadas neste script são definidas da seguinte forma:
 ## Estrutura do Projeto
 
 |- newton_raphson.py
+
 |- Newton-Raphson.xlsx (gerado automaticamente)
 
 
 ## Autores
 
-- [@/DanielMelloo](https://github.com//DanielMelloo) - Autor original do script
+- [@DanielMelloo](https://github.com//DanielMelloo) - Autor original do script
 
 ## Feedback
 
